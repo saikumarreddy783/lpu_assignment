@@ -28,6 +28,12 @@
   color: #61dafb;
 }
 
+.site-card-border-less-wrapper {
+  background: #ececec;
+  padding: 30px;
+  height: 820px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
